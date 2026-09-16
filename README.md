@@ -31,6 +31,9 @@ Application Streamlit de classification de séquences protéiques sans alignemen
 **[splicing-cardio-encode](https://github.com/romainkpakou/splicing-cardio-encode)**
 Jonctions d'épissage candidates dans 5 gènes cardiovasculaires à partir de RNA-seq public ENCODE (ventricule/oreillette), extraction samtools/regtools et comparaison aux exons connus via l'API Ensembl.
 
+**[adipocyte-metabolic-networks](https://github.com/romainkpakou/adipocyte-metabolic-networks)**
+Modes phénotypiques de la différenciation adipocytaire humaine (DESeq2, PCA), validation GO/KEGG et réseau d'interaction fonctionnelle (STRING-db) révélant les enzymes de lipogenèse comme hubs.
+
 ---
 
 ## Stack technique
