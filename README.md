@@ -28,6 +28,9 @@ Détection et priorisation de CNV dans un panel de gènes cardiomyopathie/arythm
 **[sequence-classifier-app](https://github.com/romainkpakou/sequence-classifier-app)**
 Application Streamlit de classification de séquences protéiques sans alignement préalable (Sequence Graph Transform), réduction dimensionnelle PCA/t-SNE, clustering interactif et logos de séquence.
 
+**[splicing-cardio-encode](https://github.com/romainkpakou/splicing-cardio-encode)**
+Jonctions d'épissage candidates dans 5 gènes cardiovasculaires à partir de RNA-seq public ENCODE (ventricule/oreillette), extraction samtools/regtools et comparaison aux exons connus via l'API Ensembl.
+
 ---
 
 ## Stack technique
