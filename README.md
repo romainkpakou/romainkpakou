@@ -34,6 +34,9 @@ Jonctions d'épissage candidates dans 5 gènes cardiovasculaires à partir de RN
 **[adipocyte-metabolic-networks](https://github.com/romainkpakou/adipocyte-metabolic-networks)**
 Modes phénotypiques de la différenciation adipocytaire humaine (DESeq2, PCA), validation GO/KEGG et réseau d'interaction fonctionnelle (STRING-db) révélant les enzymes de lipogenèse comme hubs.
 
+**[mirna-conservation-analysis](https://github.com/romainkpakou/mirna-conservation-analysis)**
+Profil de conservation automatisé (miRBase, 160 espèces) pour des microARN cardiaques, alignement MAFFT, classification taxonomique NCBI et recommandation de modèle animal par famille.
+
 ---
 
 ## Stack technique
