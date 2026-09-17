@@ -37,6 +37,9 @@ Modes phénotypiques de la différenciation adipocytaire humaine (DESeq2, PCA), 
 **[mirna-conservation-analysis](https://github.com/romainkpakou/mirna-conservation-analysis)**
 Profil de conservation automatisé (miRBase, 160 espèces) pour des microARN cardiaques, alignement MAFFT, classification taxonomique NCBI et recommandation de modèle animal par famille.
 
+**[cardiomyopathy-network-prioritization](https://github.com/romainkpakou/cardiomyopathy-network-prioritization)**
+Priorisation de gènes candidats par marche aléatoire avec redémarrage (MultiXrank) sur réseau PPI multicouche, appliquée à la cardiomyopathie dilatée et à la SLA, avec validation leave-one-out.
+
 ---
 
 ## Stack technique
